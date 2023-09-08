@@ -1,0 +1,9 @@
+conda create -p name venv/ python==3.8 -y
+conda activate d:\AI_ML\mlproject\venv
+git init
+create README.md 
+git first commit
+create gitignore
+git pull(see gitignore in vscode)
+pip install -r requirements.txt 
+create setup.py
