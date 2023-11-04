@@ -1,7 +1,7 @@
 conda create -p name venv python==3.8 -y
 conda activate venv/
 git init
-create README.md - git add README.md
+create README.md - git add README.md  - testing
 git first commit
 create gitignore
 git pull(see gitignore in vscode)
